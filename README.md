@@ -2,5 +2,5 @@
 ачё))
 
 
-запускать через _executer.py
+запускать через _executor.py
 писать в main.py
